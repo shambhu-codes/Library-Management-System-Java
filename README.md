@@ -12,18 +12,18 @@ A **console-based application** built in **Java** to manage a library’s books 
 
 ##  Project Structure
 Library-Management-System-Java/
-├── Book.java # Book class with issue tracking
-├── User.java # User class with issued books list
-├── Library.java # Core logic for managing books & users
-├── LibraryManagement.java # Main application (menu & interaction)
-└── README.md # Project documentation
+Book.java 
+User.java 
+Library.java 
+LibraryManagement.java 
+README.md 
 
-# 2. Compile the Code
+## 2. Compile the Code
 javac *.java
 
-# 3. Run the Program
+## 3. Run the Program
 java LibraryManagement.java
-## Simple Output
+## Simple Output/Menu List
 === Library Management System ===
 1. Add Book
 2. Add User
